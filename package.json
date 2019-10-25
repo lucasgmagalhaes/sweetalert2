@@ -20,7 +20,7 @@
     "babel-plugin-array-includes": "^2.0.3",
     "browser-sync": "^2.26.3",
     "custom-event-polyfill": "^1.0.6",
-    "eslint": "^6.0.0",
+    "eslint": "^6.6.0",
     "eslint-config-standard": "^14.0.0",
     "eslint-plugin-import": "^2.17.2",
     "eslint-plugin-node": "^10.0.0",
